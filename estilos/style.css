@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+/*Essas são configurações Globais para zerar os itens abaixo:*/
+*{
+    padding: 0px;
+    margin: 0px;
+}
